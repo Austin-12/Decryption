@@ -13,4 +13,4 @@ example:
 encryption code: 0189
 decrypted code: 1234
 
-*Open the entire folder in visual studio
+*Open the entire folder in visual studio to ensure all projects int the solution are loaded
